@@ -1,0 +1,1 @@
+const mongoose = require('mongoose'); require('dotenv').config(); mongoose.connect('mongodb://localhost:27017/placement').then(async () => { const as = await mongoose.connection.collection('assessments').findOne({ title: 'test' }); console.log(JSON.stringify(as.departments)); process.exit(0); });

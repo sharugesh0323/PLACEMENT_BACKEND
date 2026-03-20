@@ -1,0 +1,1 @@
+require('dotenv').config(); require('mongoose').connect('mongodb://localhost:27017/placement').then(async () => { const db = require('./src/models/Assessment'); const as = await db.findOne({ title: 'test' }).sort({ createdAt: -1 }); console.log('Depts:', as.departments); console.log('Batches:', as.batches); console.log('Years:', as.years); process.exit(0); })

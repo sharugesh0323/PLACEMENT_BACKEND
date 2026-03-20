@@ -1,0 +1,1 @@
+require('mongoose').connect('mongodb+srv://placement:placement@cluster0.neilf9e.mongodb.net/?appName=Cluster0').then(async () => { const User = require('./src/models/User'); const admins = await User.find({ role: { $ne: 'student' } }, 'name role email'); console.log(admins); process.exit(0); });

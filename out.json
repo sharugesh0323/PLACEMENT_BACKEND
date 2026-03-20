@@ -1,0 +1,88 @@
+[
+  {
+    "_id": "699d8d713dcb90e2e3b1d439",
+    "name": "Alice Johnson",
+    "department": "CSE",
+    "year": "2",
+    "trainingBatch": ""
+  },
+  {
+    "_id": "699d8d723dcb90e2e3b1d43c",
+    "name": "Bob Smith",
+    "department": "CSE",
+    "year": "2",
+    "trainingBatch": ""
+  },
+  {
+    "_id": "699d8d723dcb90e2e3b1d43f",
+    "name": "Charlie Brown",
+    "department": "MECH",
+    "year": "2",
+    "academicBatch": "",
+    "trainingBatch": ""
+  },
+  {
+    "_id": "699df280aff43a48bcdf5416",
+    "name": "Sharugesh T",
+    "department": "Cyber Security",
+    "year": "2",
+    "academicBatch": "2024-2028",
+    "trainingBatch": "Batch 1"
+  },
+  {
+    "_id": "69aea28d7b6cebb055195a8b",
+    "name": "Vignesh Mohan",
+    "department": "ECE",
+    "academicBatch": "",
+    "trainingBatch": "",
+    "year": ""
+  },
+  {
+    "_id": "69bac565178dd6c77aac9bcc",
+    "name": "SAMPLE",
+    "department": "",
+    "academicBatch": "",
+    "trainingBatch": "",
+    "year": ""
+  },
+  {
+    "_id": "69bac5ae178dd6c77aac9bf4",
+    "name": "SAMPLE A",
+    "department": "",
+    "academicBatch": "",
+    "trainingBatch": "",
+    "year": ""
+  },
+  {
+    "_id": "69bac5c0178dd6c77aac9c0d",
+    "name": "SAMPLE",
+    "department": "",
+    "academicBatch": "",
+    "trainingBatch": "",
+    "year": ""
+  },
+  {
+    "_id": "69bac5d5178dd6c77aac9c29",
+    "name": "TERST",
+    "department": "",
+    "academicBatch": "",
+    "trainingBatch": "",
+    "year": ""
+  },
+  {
+    "_id": "69bac5ee178dd6c77aac9c46",
+    "name": "DHARSHINI R",
+    "department": "IT",
+    "academicBatch": "2024-2028",
+    "year": "2",
+    "trainingBatch": ""
+  },
+  {
+    "_id": "69bac5ee178dd6c77aac9c49",
+    "name": "DURGA M",
+    "department": "IT",
+    "academicBatch": "2024-2028",
+    "year": "2",
+    "trainingBatch": ""
+  }
+]
